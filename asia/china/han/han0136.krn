@@ -1,0 +1,83 @@
+!! 00000] TT[00
+!! NN
+!!!OTL: Bei qi beizi nan shang po
+!!!ARE: Asia, China,ÿSichuan, Daxian
+!! Ethnic Group: Han
+!! II, 237, 2)
+!!!SCT: C0227
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+!! 5/83+2 metric grouping
+!! Mixed meters:  3/8; 4/8
+*M4/8
+*k[]
+*C:
+{[2gg
+=1
+4gg]
+8r
+8ee
+=2
+*M3/8
+8gg
+8dd
+8ee
+=3
+8dd
+8e
+8cc}
+=4
+{16r
+16a
+=5
+4cc
+8cc
+16cc
+16dd
+8ee
+=6
+*M4/8
+8dd
+4cc
+16a
+16cc
+=7
+[2dd
+=8
+*M3/8
+8dd]
+16cc
+16a}
+{16r
+16a
+=9
+*M4/8
+8cc
+8cc
+16a
+16cc
+8dd
+=10
+4cc
+8a
+8g
+8a
+=11
+16dd
+16cc
+8a
+8g
+4r}
+==
+!!!AGN: Shange, Beierge. Beiyuntuzhong chang
+!! Besseres Beispiel als II, 211, das aber dem Berglied aehnelt.
+!!    Vereinzelt Verzierungen.
+!!!ONB: ESAC (Essen Associative Code) Database: CHINA
+!!!AMT: irregular
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!ONB: Tied note syntax fixed by Craig Sapp, 2004/05/03/

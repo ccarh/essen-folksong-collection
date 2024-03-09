@@ -1,0 +1,107 @@
+!!!OTL: Ni chang Shange,wo da qiang
+!!!ARE: Asia, China,ÿJiangsu, Haimen
+!! III, 505
+!!!SCT: C1590
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+!! Mixed meters:  2/4; 3/4
+*M2/4
+*k[b-]
+*F:
+{8cc
+8dd
+8dd
+16cc
+16a
+=1
+8cc
+8dd
+16cc
+16a
+[8g
+=2
+8g]
+16a
+16cc
+16dd
+16cc
+16a
+16r}
+=3
+*M3/4
+{8cc
+8dd
+16cc
+16a
+4g
+16a
+16cc
+=4
+*M2/4
+4d
+8f
+8a
+=5
+16g
+16f
+4.d}
+=6
+*M3/4
+{12d
+12f
+12d
+12d
+12f
+12d
+12d
+12f
+12d
+=7
+*M2/4
+16f
+16d
+4r}
+{16cc
+16cc
+=8
+8cc
+8cc
+8g
+8cc
+=9
+8f
+4g
+16a
+16cc
+=10
+16dd
+16cc
+16a
+16r}
+{8a
+16dd
+16dd
+=11
+16cc
+16a
+4g
+16a
+16g
+=12
+4d
+8f
+8a
+=13
+16g
+16f
+4.d}
+==
+!!!AGN: Shange, Ganjuzi
+!!!AMT: irregular
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!ONB: Tied note syntax fixed by Craig Sapp, 2004/05/03/

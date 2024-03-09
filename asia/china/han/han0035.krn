@@ -1,0 +1,85 @@
+!! 00003] TT[TB
+!! J 5727, Schallplatte = 1-6972 Z)
+!!!OTL: Dong fang hong, Der Osten ist rot)
+!!!ARE: Asia, China, Shanxi, Nordwesten)
+!! Ethnic Group: Han
+!! I, 31
+!!!SCT: C0046
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M2/4
+*k[b-]
+*F:
+{4cc
+8cc
+8dd
+=1
+2g
+=2
+4f
+8f
+8d
+=3
+2g}
+=4
+{4cc
+4cc
+=5
+8dd
+8ff
+8dd
+8cc
+=6
+4f
+8f
+8d
+=7
+2g}
+=8
+{4cc
+4g
+=9
+4f
+8e
+8d
+=10
+4c
+4cc
+=11
+4g}
+{8a
+8g
+=12
+4f
+8f
+8d
+=13
+8g
+8a
+8g
+8f
+=14
+8g
+8f
+8e
+8d
+=15
+[2c
+=16
+4c]
+4r}
+==
+!!!AGN: Xiaodiao. Geming lishi minge
+!! traditionelles Liebeslied, das in den 1930er mit neuem Text
+!!    versehen wurde. Vgl. Band 3 CuT 3(?), hier fuerchterlich)
+!!    Die Rueckseite der hier kopierten Platte enthaelt dasselbe Stueck
+!!    fuer Blasorchester. Platten-Nr. 1-5059, ZCP)
+!!!ONB: ESAC (Essen Associative Code) Database: CHINA
+!!!AMT: simple duple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!ONB: Tied note syntax fixed by Craig Sapp, 2004/05/03/

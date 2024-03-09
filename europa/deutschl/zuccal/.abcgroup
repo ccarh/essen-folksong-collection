@@ -1,0 +1,4 @@
+--no-indent -m 4 --spacing 2.0 -s 0.6 --filenum "."
+-p "%%titleleft" 
+--TT "@{OTL} [@{SCT}]"
+

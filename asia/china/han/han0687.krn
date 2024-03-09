@@ -1,0 +1,92 @@
+!!!OTL: Shui shen zi you bai du ren
+!!!ARE: Asia, China,ˇnan Jiangxi, Nanchang
+!! IV, 256
+!!!SCT: C1688
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+!! Mixed meters:  2/4; 3/4
+*M3/4
+*k[]
+*C:
+{8ee
+4dd
+8gg
+4ee
+=1
+*M2/4
+8a
+16cc
+16a
+16gg
+16ee
+[8dd
+=2
+8dd]}
+{8ee
+4cc
+=3
+16dd
+16ee
+16dd
+16a
+4g
+=4
+16.a
+32cc
+16dd
+16ee
+16cc
+16a
+[8g
+=5
+8g]
+8f#
+4g}
+=6
+*M3/4
+{16a
+16g
+4a
+16gg
+16ee
+8.dd
+16cc
+=7
+*M2/4
+8dd
+16dd
+16b
+4a}
+=8
+*M3/4
+{8.g
+16a
+16.gg
+32ee
+16dd
+16a
+4cc
+=9
+*M2/4
+16.cc
+32dd
+16gg
+16ee
+8.dd
+16a
+=10
+16b
+16dd
+16b
+16a
+4g}
+==
+!!!AGN: Xiaodiao, MengjiangnÅ diao, Yifan diao. NannÅ qing
+!!!AMT: irregular
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
+!!!ONB: Tied note syntax fixed by Craig Sapp, 2004/05/03/

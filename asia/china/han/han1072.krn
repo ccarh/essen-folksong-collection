@@ -1,0 +1,62 @@
+!!!OTL: Xiangnian hongjun
+!!!ARE: Asia, China, Fujian Shaowu
+!! II, 581
+!!!SCT: C2002
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+!! 3+2 metric grouping
+*M5/8
+*k[f#]
+*G:
+{8aa
+8gg
+8aa
+4aa}
+=1
+{8aa
+8gg
+8aa
+4ee}
+=2
+{8ee
+8aa
+8aa
+4gg}
+=3
+{8ee
+16aa
+16gg
+4.ee}
+=4
+{8aa
+16gg
+16aa
+8bb
+4bb}
+=5
+{8aa
+16gg
+16aa
+8gg
+4ee}
+=6
+{8ee
+16aa
+16gg
+8ee
+4gg}
+=7
+{8gg
+16aa
+16gg
+8ee
+4ee}
+==
+!!!AGN: Shange
+!!!AMT: simple quintuple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-

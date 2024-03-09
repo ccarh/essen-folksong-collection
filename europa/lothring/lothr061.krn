@@ -1,0 +1,82 @@
+!!!OTL: Der Wolf ( Der Abendgang ) Wer wohnt in jenem Tale ?
+!!!ARE: Europa, Mitteleuropa, Lothringen, Woelflingen
+!!!SCT: D0064
+!!!YEM: Copyright 1995, estate of Helmut Schaffrath.
+**kern
+*ICvox
+*Ivox
+*M4/4
+*k[f#]
+*G:
+{4d
+=1
+4.g
+8a
+4b
+8b
+8dd
+=2
+4.a
+16b
+16a
+4g}
+{4d
+=3
+4.g
+8a
+4b
+8b
+8dd
+=4
+2.a}
+{8b
+8a
+=5
+4.g
+8a
+4b
+8cc
+8ee
+=6
+4.dd
+8ee
+4dd}
+{8.dd
+16cc
+=7
+4b
+4b
+4a
+8a
+8f#
+=8
+2.g}
+{4d
+=9
+4.g
+8a
+4b
+8cc
+8ee
+=10
+4.dd
+8ee
+4dd}
+{8.dd
+16cc
+=11
+4b
+4b
+4a
+8a
+8f#
+=12
+2.g}
+==
+!!!AGN: Ballade, Tod eines Geliebten
+!!!ONB: ESAC (Essen Associative Code) Database: DVA
+!!!AMT: simple quadruple
+!!!AIN: vox
+!!!EED: Helmut Schaffrath
+!!!EEV: 1.0
+*-
